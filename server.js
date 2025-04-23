@@ -1,11 +1,4 @@
-# Repository: socketio-render-starter
 
-This is a minimal Socket.IO server app, ready to deploy on Render.
-
----
-
-## File: server.js
-```js
 // server.js
 const express = require('express');
 const http = require('http');
@@ -119,6 +112,4 @@ In your HTML/JS (hosted on Hostinger or anywhere):
     // TODO: update your UI here
   }
 </script>
-```
 
-Enjoy building your turn-based dice game!
